@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Interests
 ---
+# Research Interests
 
 ### Data-free knowledge distillation
 + Designed a new loss function for the generator to produce samples with high authenticity, class diversity,
