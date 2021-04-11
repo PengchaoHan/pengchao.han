@@ -10,7 +10,7 @@ title: Publications
 learning approach](https://arxiv.org/pdf/2001.04756.pdf), in Proc. _IEEE International Conference on Distributed Computing Systems (ICDCS)_, Nov.
 2020 (acceptance rate: 18.0%).
 3. **P. Han**, L. Guo, Y. Liu, [VNE2: A virtual network embedding framework Based on equivalent bandwidth in
-fiber-wireless enhanced 5G networks](./assets/ICTON_2020.pdf), in Proc. _IEEE International Conference on Transparent Optical Networks
+fiber-wireless enhanced 5G networks](ICTON_2020.pdf), in Proc. _IEEE International Conference on Transparent Optical Networks
 (ICTON)_, July 2020, pp. 1-4 (invited).
 4. **P. Han**, S. Wang, K. K. Leung, [Capacity analysis of distributed computing systems with multiple resource
 types], in Proc. _IEEE Wireless Communications & Networking Conference (WCNC)_, May 2020, pp. 1-6.
