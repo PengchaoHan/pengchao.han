@@ -10,17 +10,17 @@ title: Publications
 learning approach](https://arxiv.org/pdf/2001.04756.pdf), in Proc. _IEEE International Conference on Distributed Computing Systems (ICDCS)_, Nov.
 2020 (acceptance rate: 18.0%).
 3. **P. Han**, L. Guo, Y. Liu, [VNE2: A virtual network embedding framework Based on equivalent bandwidth in
-fiber-wireless enhanced 5G networks](assets/ICTON_2020.pdf), in Proc. _IEEE International Conference on Transparent Optical Networks
+fiber-wireless enhanced 5G networks](/assets/ICTON_2020.pdf), in Proc. _IEEE International Conference on Transparent Optical Networks
 (ICTON)_, July 2020, pp. 1-4 (invited).
 4. **P. Han**, S. Wang, K. K. Leung, [Capacity analysis of distributed computing systems with multiple resource
-types](assets/WCNC2019.pdf), in Proc. _IEEE Wireless Communications & Networking Conference (WCNC)_, May 2020, pp. 1-6.
+types](./assets/WCNC2019.pdf), in Proc. _IEEE Wireless Communications & Networking Conference (WCNC)_, May 2020, pp. 1-6.
 5. **P. Han**, Y. Liu, L. Guo, [Interference-aware task assignment in edge cloud-enhanced 5G fiber-wireless access
-networks](assets/ACP_2019.pdf), in Proc. _IEEE/OSA Asia Communications and Photonics Conference (ACP)_, Nov. 2019, pp. 1-3.
+networks](/assets/ACP_2019.pdf), in Proc. _IEEE/OSA Asia Communications and Photonics Conference (ACP)_, Nov. 2019, pp. 1-3.
 6. Y. Liu, Y. Liu, N. Yan, **P. Han**, L. Guo, Standard-compliant dynamic bandwidth allocation in OFDM-PON
 supporting multiservice, in Proc. _IEEE/OSA Asia Communications and Photonics Conference (ACP)_, Nov. 2018,
 pp.1-3.
 7. **P. Han**, L. Guo, Y. Liu, [Green virtual network embedding framework based on zooming small cells in
-fiber-wireless access network for 5G](assets/ICTON_2017.pdf), in Proc. _IEEE International Conference on Transparent Optical Networks
+fiber-wireless access network for 5G](./assets/ICTON_2017.pdf), in Proc. _IEEE International Conference on Transparent Optical Networks
 (ICTON)_, July 2017, pp. 1-4 (invited).
 8. X. Han, **P. Han**, L. Guo, Y. Liu and J. Hou, Green Virtual network embedding with periodical sleep mechanism
 for fiber-wireless access network, in _Proc. IEEE/OSA Asia Communications and Photonics Conference (ACP)_,
