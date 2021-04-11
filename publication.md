@@ -9,13 +9,13 @@ title: Publications
 2. **P. Han**, S. Wang, K. K. Leung, [Adaptive gradient sparsification for efficient federated learning: an online
 learning approach](https://arxiv.org/pdf/2001.04756.pdf), in Proc. _IEEE International Conference on Distributed Computing Systems (ICDCS)_, Nov.
 2020 (acceptance rate: 18.0%).
-3. **P. Han**, L. Guo, Y. Liu, VNE2: A virtual network embedding framework Based on equivalent bandwidth in
-fiber-wireless enhanced 5G networks, in Proc. _IEEE International Conference on Transparent Optical Networks
+3. **P. Han**, L. Guo, Y. Liu, [VNE2: A virtual network embedding framework Based on equivalent bandwidth in
+fiber-wireless enhanced 5G networks](./assets/ICTON_2020.pdf), in Proc. _IEEE International Conference on Transparent Optical Networks
 (ICTON)_, July 2020, pp. 1-4 (invited).
-4. **P. Han**, S. Wang, K. K. Leung, Capacity analysis of distributed computing systems with multiple resource
-types, in Proc. _IEEE Wireless Communications & Networking Conference (WCNC)_, May 2020, pp. 1-6.
-5. **P. Han**, Y. Liu, L. Guo, Interference-aware task assignment in edge cloud-enhanced 5G fiber-wireless access
-networks, in Proc. _IEEE/OSA Asia Communications and Photonics Conference (ACP)_, Nov. 2019, pp. 1-3.
+4. **P. Han**, S. Wang, K. K. Leung, [Capacity analysis of distributed computing systems with multiple resource
+types], in Proc. _IEEE Wireless Communications & Networking Conference (WCNC)_, May 2020, pp. 1-6.
+5. **P. Han**, Y. Liu, L. Guo, [Interference-aware task assignment in edge cloud-enhanced 5G fiber-wireless access
+networks], in Proc. _IEEE/OSA Asia Communications and Photonics Conference (ACP)_, Nov. 2019, pp. 1-3.
 6. Y. Liu, Y. Liu, N. Yan, **P. Han**, L. Guo, Standard-compliant dynamic bandwidth allocation in OFDM-PON
 supporting multiservice, in Proc. _IEEE/OSA Asia Communications and Photonics Conference (ACP)_, Nov. 2018,
 pp.1-3.
@@ -48,14 +48,14 @@ in 3D optical network on chip, in Proc. _IEEE/CIC International Conference on Co
 Oct. 2014, pp. 112-115.
 
 **Journals**
-1. **P. Han**, Y. Liu, L. Guo, Interference-aware online multi-component service placement in edge cloud networks
-and its AI application, _IEEE Internet of Things Journal_, 2021.
-2. Y. Liu, **P. Han**, J. Hou, J. Zheng, Resource-efficiently survivable IoT services provisioning via virtual network
-embedding in fiber-wireless access network, _IEEE ACCESS_, Vol. 7, pp. 65007-65018, May 2019.
+1. **P. Han**, Y. Liu, L. Guo, [Interference-aware online multi-component service placement in edge cloud networks
+and its AI application], _IEEE Internet of Things Journal_, 2021.
+2. Y. Liu, **P. Han**, J. Hou, J. Zheng, [Resource-efficiently survivable IoT services provisioning via virtual network
+embedding in fiber-wireless access network], _IEEE ACCESS_, Vol. 7, pp. 65007-65018, May 2019.
 3. Y. Liu, Y. Yang, **P. Han**, Z. Shao, C. Li, Virtual network embedding in fiber-wireless access networks for
 resource-efficient IoT service provisioning, _IEEE ACCESS_, Vol. 7, pp.65506-65517, May 2019.
-4. **P. Han**, Y. Liu, L. Guo, QoS satisfaction aware and network reconfiguration enabled resource allocation for
-virtual network embedding in fiber-wireless access network, _Computer Networks_, vol.143, pp. 30-48, Oct.
+4. **P. Han**, Y. Liu, L. Guo, [QoS satisfaction aware and network reconfiguration enabled resource allocation for
+virtual network embedding in fiber-wireless access network], _Computer Networks_, vol.143, pp. 30-48, Oct.
 2018.
 5. L. Guo, X. WANG, Y. Liu, **P. Han**, Y. Xie, Y. Tan, Directional routing algorithm for deep space optical network,
 _China Communications_, Jan. 2017.
@@ -66,8 +66,8 @@ survivable fiber-wireless access network, _IEEE/ACM Photonic Network Communicati
 _Optical Engineering_, vol. 55, no. 11, pp. 111604-1-111604-8, Aug. 2016.
 8. Y. Yu, Y. Liu, **P. Han** and Y. Zhou, Survivable deployment of cloud-integrated fiber-wireless networks against
 multi-fiber failure, _IEEE/ACM Photonic Network Communications_, vol. 31, no. 3, pp. 559-567, June 2016.
-9. **P. Han**, L. Guo, Y. Liu, J. Hou and X. Han, Joint wireless and optical power states scheduling for green
-multi-radio fiber-wireless access network, _IEEE/OSAJournal of Lightwave Technology_, vol. 34, no. 11, pp.
+9. **P. Han**, L. Guo, Y. Liu, J. Hou and X. Han, [Joint wireless and optical power states scheduling for green
+multi-radio fiber-wireless access network], _IEEE/OSAJournal of Lightwave Technology_, vol. 34, no. 11, pp.
 2610-2623, June 2016.
 10. X. Zhang, **P. Han**, Y. Yu, Y. Zhou and Y. Xie, Comparison and analysis of ONU sleep mechanism based on
 OPNET for green fiber-wireless access network, _Applied Mechanics and Materials_, vol. 700, pp. 181-184, Dec.
