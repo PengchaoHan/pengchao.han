@@ -65,7 +65,6 @@ social-network-links:
 #  mastodon: instance.url/@username
   ORCID: 0000-0003-2246-7640
   google-scholar: your google scholar
-  CV: "/assets/CV.pdf"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
