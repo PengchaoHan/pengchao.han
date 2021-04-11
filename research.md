@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: Research Interests
+title: Research Interests
 ---
 
 ### Data-free knowledge distillation
