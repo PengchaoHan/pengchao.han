@@ -20,8 +20,8 @@ navbar-links:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Publications: "publication"
-  Award: "award"
-  Services: "services"
+  Awards: "award"
+  Services: "service"
 
 # --- Logo --- #
 
