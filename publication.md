@@ -7,7 +7,7 @@ title: Publications
 **Conferences**
 1. **P. Han**, J. Park, S. Wang, Y. Liu, [Robustness and diversity seeking data-free knowledge distillation](https://arxiv.org/abs/2011.03749), in Proc. _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2021.
 2. **P. Han**, S. Wang, K. K. Leung, [Adaptive gradient sparsification for efficient federated learning: an online
-learning approach](https://arxiv.org/pdf/2001.04756.pdf), in Proc. _IEEE International Conference on Distributed Computing Systems (ICDCS)_, Nov.
+learning approach](https://arxiv.org/abs/2001.04756), in Proc. _IEEE International Conference on Distributed Computing Systems (ICDCS)_, Nov.
 2020 (acceptance rate: 18.0%).
 3. **P. Han**, L. Guo, Y. Liu, [VNE2: A virtual network embedding framework Based on equivalent bandwidth in
 fiber-wireless enhanced 5G networks](/assets/ICTON_2020.pdf), in Proc. _IEEE International Conference on Transparent Optical Networks
