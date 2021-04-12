@@ -8,6 +8,7 @@ title: Research Topics
 + Designed a new loss function for the generator to produce samples with high authenticity, class diversity,
 and inter-sample diversity to facilitate data-free knowledge distillation with higher accuracy and more
 robustness over different hyperparameter settings
+
 _Collaborated with Jihong Park (Deakin University, Australia) and Shiqiang Wang (IBM T.J. Watson Research
 Center, USA)_
 
@@ -18,12 +19,14 @@ designed algorithms to minimize overall resource cost for service placement with
 ### Communication-efficient federated learning
 + Automatically determined the degree the sparsity of gradient sparsification enabled federated learning with
 non-i.i.d. local datasets to minimize the overall training time
+
 _Collaborated with Shiqiang Wang (IBM T.J. Watson Research Center, USA) and Kin K Leung (Imperial College
 London, UK)_
 
 ### Capacity of distributed computing systems
 + Derived theoretical formulas for the capacity of distributed systems with multiple resource types, where the
 power of d choices is considered as the task scheduling strategy in the analysis
+
 _Collaborated with Kin K Leung (Imperial College London, UK) and Shiqiang Wang (IBM T.J. Watson Research
 Center, USA)_
 
