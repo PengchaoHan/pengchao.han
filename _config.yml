@@ -14,7 +14,8 @@ author: Pengchao Han
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://pengchaohan.github.io/"
+#  Home: "https://pengchaohan.github.io/"
+  Home: "http://pengchaohan.com/"
   Research: "research"
 #  Research:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
