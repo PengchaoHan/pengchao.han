@@ -12,9 +12,14 @@ robustness over different hyperparameter settings
 _Collaborated with Jihong Park (Deakin University, Australia) and Shiqiang Wang (IBM T.J. Watson Research
 Center, USA)_
 
-### Interference-aware service placement in mobile edge networks
-+ Focused on the interference among services coexisting on the same infrastructure in terms of delay and
-designed algorithms to minimize overall resource cost for service placement with delay guarantee
+### Service placement in mobile edge cloud networks
++ Formulated the interference in terms of delay among services coexisting on the same infrastructure and 
+designed algorithms to minimize overall resource cost for multi-component service placement to achieve 
+interference awareness and delay guarantee
+
++ Defined the equivalent bandwidth for the resource allocation of an edge in a service and designed methods
+for joint optimization of small cell zooming and multi-component service placement with reduced resource
+fragments and guaranteed QoS aiming at power consumption minimization
 
 ### Communication-efficient federated learning
 + Automatically determined the degree the sparsity of gradient sparsification enabled federated learning with
