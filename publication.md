@@ -56,9 +56,9 @@ Oct. 2014, pp. 112-115.
 **Journals (\*corresponding author)**
 1. **P. Han**, Y. Liu, X. Zhang, L. Guo, [Energy-efficient service placement based on equivalent bandwidth in cell zooming enabled mobile edge cloud networks](/assets/TVT_2022.pdf), 
 _IEEE Transactions on Vehicular Technology_, 2022.
-2. C. Feng, **P. Han***, X. Zhang, Q. Zhang, Y. Zong, Y. Liu, L. Guo, [Cost-minimized computation offloading of online multi-function services in collaborative edge-cloud networks](/assets/TNSM_2022.pdf), 
+2. C. Feng, **P. Han**\*, X. Zhang, Q. Zhang, Y. Zong, Y. Liu, L. Guo, [Cost-minimized computation offloading of online multi-function services in collaborative edge-cloud networks](/assets/TNSM_2022.pdf), 
 _IEEE Transactions on Network and Service Management_, 2022.
-3. C. Feng, **P. Han***, X. Zhang*, B. Yang, Y. Liu, L. Guo, Computation offloading in mobile edge computing networks: A survey, 
+3. C. Feng, **P. Han**\*, X. Zhang\*, B. Yang, Y. Liu, L. Guo, Computation offloading in mobile edge computing networks: A survey, 
 _Journal of Network and Computer Applications_, vol. 202, 2022.	
 4. **P. Han**, Y. Liu, L. Guo, [Interference-aware online multi-component service placement in edge cloud networks
 and its AI application](/assets/IoT_2021.pdf), _IEEE Internet of Things Journal_, 2021.
