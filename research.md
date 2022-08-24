@@ -13,13 +13,11 @@ _Collaborated with Jihong Park (Deakin University, Australia) and Shiqiang Wang 
 Center, USA)_
 
 ### Service placement in mobile edge cloud networks
-+ Formulated the interference in terms of delay among services coexisting on the same infrastructure and 
-designed algorithms to minimize overall resource cost for multi-component service placement to achieve 
-interference awareness and delay guarantee
-
-+ Defined the equivalent bandwidth for the resource allocation of an edge in a service and designed methods
-for joint optimization of small cell zooming and multi-component service placement with reduced resource
-fragments and guaranteed QoS aiming at power consumption minimization
++ Formulated the interference in terms of delay among services coexisting on the same infrastructure; 
+Designed algorithms to minimize overall resource cost for multi-component service placement to achieve interference awareness and delay guarantee
+		
++ Defined the equivalent bandwidth for the flexible resource allocation of an edge in a service; 
+Formulated and resolved the joint optimization of small cell zooming and multi-component service placement with reduced resource fragments and guaranteed QoS
 
 ### Communication-efficient federated learning
 + Automatically determined the degree the sparsity of gradient sparsification enabled federated learning with
