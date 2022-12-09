@@ -98,6 +98,9 @@ Mechanics and Materials_, Vols. 631-632, pp. 860-863, Sept. 2014.
 **Patents**
 1. L. Guo, **P. Han**, Y. Liu, S. Song, A method for constructing ultra-dense small cell networks in 5G, ZL
 201710845051.8, 2020.
-2. L. Guo, S. Song, Y. Liu, **P. Han**, A method for adaptive FSO backhaul network construction for ultra-dense
+2. C. Feng, Y. Liu, L. Guo, **P. Han**, X. Zhang, Q. Zhang, Y. Zong, A low-cost computation offloading method for online multi-function tasks in edge-cloud networks, 
+ZL 202110182630.5, 2022.
+3. L. Guo, S. Song, Y. Liu, **P. Han**, A method for adaptive FSO backhaul network construction for ultra-dense
 small cell base stations in 5G, ZL 201710844972.2, 2020.
 Proposed algorithms for controlling the power states of network devices for energy-efficient network design
+4. **P. Han**, J. Huang, A method and equipment for federated knowledge distillation, 2022 (Accepted).
