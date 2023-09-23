@@ -15,7 +15,7 @@ author: Pengchao Han
 
 navbar-links:
   Home: "https://pengchaohan.github.io/"
-#  Home: "http://pengchaohan.com/"
+#  Home: "http://pengchaohan.com/"  # need change the setting of Custom domain at https://github.com/PengchaoHan/pengchaohan.github.io/settings/pages to pengchaohan.com
   Research: "research"
 #  Research:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
